@@ -66,6 +66,10 @@ theme:
       primary: custom
     accent: purple
 
+# Javascript
+extra_javascript:
+  - js/taxonomy-graph.js
+
 # Plugins
 plugins:
   - search
